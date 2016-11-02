@@ -1,0 +1,88 @@
+body {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 16px;
+  min-height: 1162px;
+  min-width: 1200px;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.container {
+  width: 940px;
+  min-height: 72px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.logo {
+  float: left;
+  width: 140px;
+  min-height: 72px;
+  background-color: black;
+}
+
+.main-menu {
+  float: left;
+  width: 640px;
+  min-height: 72px;
+}
+
+.login {
+  min-height: 72px;
+  width: 140px;
+  float: right;
+}
+
+.main-header {
+  margin-bottom: 60px;
+}
+
+.shop-menu {
+  width: 940px;
+  min-height: 72px;
+  margin-bottom: 60px;
+}
+
+.photos {
+  float: left;
+  width: 460px;
+  min-height: 670px;
+}
+
+.discription-block {
+  float: right;
+  width: 460px;
+  min-height: 670px;
+}
+
+footer.container {
+  margin-top: 60px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  clear: both;
+  height: 90px;
+}
+
+.contacts {
+  float: left;
+  width: 320px;
+  margin-right: 60px;
+}
+
+.social {
+  float: left;
+  width: 180px;
+}
+
+.copyrights {
+  float: right;
+  width: 180px;
+}
